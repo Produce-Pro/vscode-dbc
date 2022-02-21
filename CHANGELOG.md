@@ -7,9 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.1] - 2022-02-21
+
 ### Fixed
 
 - Comment toggle handling of whitespace only lines and skipping a line when none of the line is highlighted
+- Upgrade dependencies
 
 ## [1.2.0] - 2020-04-16
 
