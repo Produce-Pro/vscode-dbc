@@ -2,7 +2,7 @@
   "name": "vscode-dbc",
   "displayName": "vscode-dbc",
   "description": "DB/C Language Support",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "extensionKind": [
     "workspace"
   ],
