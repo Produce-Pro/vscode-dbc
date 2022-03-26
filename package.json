@@ -81,7 +81,7 @@
     "js-yaml": "^3.13.1",
     "@types/node": "^12.12.0",
     "vscode": "^1.1.36",
-    "minimist": ">=0.2.1"
+    "minimist": ">=1.2.6"
   },
   "scripts": {
     "prepublish": "npx js-yaml syntaxes/dbc.tmLanguage.yaml > syntaxes/dbc.tmLanguage.json"
