@@ -44,7 +44,7 @@
     "configurationDefaults": {
       "[dbc]": {
         "files.encoding": "cp850",
-        "editor.tabSize": 5,
+        "editor.tabSize": 4,
         "editor.detectIndentation": false,
         "editor.insertSpaces": false,
         "files.insertFinalNewline": true,
