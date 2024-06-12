@@ -1,6 +1,3 @@
-[![](https://vsmarketplacebadge.apphb.com/version/ProduceProSoftware.vscode-dbc.svg)](https://marketplace.visualstudio.com/items?itemName=ProduceProSoftware.vscode-dbc)
-[![](https://vsmarketplacebadge.apphb.com/installs/ProduceProSoftware.vscode-dbc.svg)](https://marketplace.visualstudio.com/items?itemName=ProduceProSoftware.vscode-dbc)
-
 # vscode-dbc README
 
 DB/C Language support for Visual Studio Code
