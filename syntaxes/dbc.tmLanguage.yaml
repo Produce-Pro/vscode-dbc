@@ -485,7 +485,7 @@ repository:
         captures:
           1: { name: keyword.control.loop.dbc }
       # Break/continue
-      - begin: '^[ \t]+((?i)break|until|continue)(?![[:alnum:]_\$\.@])[ \t]*'
+      - begin: '^[ \t]+((?i)break|until|continue|while)(?![[:alnum:]_\$\.@])[ \t]*'
         captures:
           1: { name: keyword.control.loop.dbc }
         patterns:
