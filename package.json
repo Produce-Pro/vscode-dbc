@@ -79,7 +79,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.14.2",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "minimist": "^1.2.8",
     "vscode": "^1.1.34"
   },
